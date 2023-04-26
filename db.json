@@ -6,11 +6,11 @@
     },
     "servers": [
         {
-            "url": "http://localhost:3000/",
+            "url": "https://beloyosry.github.io/myNews-API/db.json/",
             "description": "SwaggerHub API Auto Mocking"
         },
         {
-            "url": "http://localhost:3000/"
+            "url": "https://beloyosry.github.io/myNews-API/db.json/"
         }
     ],
     "paths": {
